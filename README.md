@@ -1,10 +1,10 @@
-# Code Exercise for Senior Developer role
+# Code Exercise for Senior Frontend Developer role
 
-## Actual App
+## Website Link
 
 https://iona-code-exercise.vercel.app/
 
-### ⚛️ Technologies Used
+## ⚛️ Technologies Used
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,git,vscode,vercel&theme=light)
 
