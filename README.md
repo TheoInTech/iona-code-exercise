@@ -1,12 +1,12 @@
-# IONA Code Exercise for Senior Developer role
+# Code Exercise for Senior Developer role
 
 ## Actual App
 
 https://iona-code-exercise.vercel.app/
 
-## Added Technology for better UX
+### ⚛️ Technologies Used
 
-- Redux Toolkit
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,git,vscode,vercel&theme=light)
 
 ## Recommendation & Suggestions
 
